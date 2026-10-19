@@ -1,0 +1,8 @@
+{
+  "name": "AtlasCraft - Moroccan & Global Ecommerce Store",
+  "description": "Bilingual (FR/AR/EN) ecommerce platform for artisanal physical crafts and digital creative goods in Morocco and worldwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
